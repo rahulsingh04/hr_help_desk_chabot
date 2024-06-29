@@ -13,7 +13,8 @@ The goal is to streamline the process of handling HR-related questions and impro
 https://drive.google.com/file/d/1UWDCYBJIJdgnBCRJksBj8dN1FKY4igS6/view?usp=sharing
 ## Screenshots
 
-![chat bot](https://drive.google.com/file/d/1SA9f5_jW3wzKQtiJ0g2lj01cOxpBYem7/view?usp=sharing)
+![chat_bot](https://github.com/rahulsingh04/hr_help_desk_chabot/assets/60429775/7883aa6a-23b2-4aaa-8ee2-f2625dcfd750)
+
 
 ### How To Run HR HELP DESK CHAT BOT  APP 
 
