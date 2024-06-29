@@ -8,10 +8,11 @@ This chatbot will assist employees by allowing them to directly query the bot in
 The goal is to streamline the process of handling HR-related questions and improve efficiency within the organization.
 
 
-## Demo
+## chat bot gif
 
-https://drive.google.com/file/d/1UWDCYBJIJdgnBCRJksBj8dN1FKY4igS6/view?usp=sharing
-## Screenshots
+![Chatbot_video](https://github.com/rahulsingh04/hr_help_desk_chabot/assets/60429775/07b01f92-a315-4a62-a032-aed604c9144b)
+
+## chat bot response image
 
 ![chat_bot](https://github.com/rahulsingh04/hr_help_desk_chabot/assets/60429775/7883aa6a-23b2-4aaa-8ee2-f2625dcfd750)
 
